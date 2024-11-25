@@ -1,7 +1,3 @@
-Aqui está sua bio atualizada com o Flutter:  
-
----
-
 ## Olá, me chamo Ana Clara Araujo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium%20Skin%20Tone.png" alt="Folded Hands Medium Skin Tone" width="25" height="25" />
 <p>
   <img alt="JavaScript" src="https://img.shields.io/static/v1?label=JavaScript&message=%20&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=black">
