@@ -16,7 +16,7 @@ Utilizo tecnologia para resolver problemas, conectando pessoas e soluções. Bus
 - 🎓 Técnica em **Redes de Computadores** pelo Instituto Federal do Amapá.
 - 🎓 Graduada em **Ciências da Computação** pela Universidade Federal de Goiás.
 - 💡 **Desenvolvedora Fullstack**, alinho o design com tecnologia para solucionar problemas.
-- 👩🏽‍💻 Experiências em **backend** com **PHP (Laravel)** e **Node (Express)**, **frontend** com **React/Next**, **UI design**.
+- 👩🏽‍💻 Experiências em **backend** com **PHP (Laravel)** e **Node (Express)**, **frontend** com **React (Next)**, **UI design**.
 
 
 ## 📫 Contato
