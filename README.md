@@ -1,33 +1,30 @@
-## Olá, me chamo Ana Clara Araujo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium%20Skin%20Tone.png" alt="Folded Hands Medium Skin Tone" width="25" height="25" />
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/static/v1?label=JavaScript&message=%20&color=F7DF1E&labelColor=F7DF1E&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/static/v1?label=TypeScript&message=%20&color=3178C6&labelColor=3178C6&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/static/v1?label=React&message=%20&color=61DAFB&labelColor=61DAFB&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/static/v1?label=Next.js&message=%20&color=000000&labelColor=000000&logo=nextdotjs&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/static/v1?label=Node.js&message=%20&color=339933&labelColor=339933&logo=nodedotjs&logoColor=white">
-  <img alt="Express" src="https://img.shields.io/static/v1?label=Express&message=%20&color=000000&labelColor=000000&logo=express&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/static/v1?label=PHP&message=%20&color=777BB4&labelColor=777BB4&logo=php&logoColor=white">
-  <img alt="Laravel" src="https://img.shields.io/static/v1?label=Laravel&message=%20&color=FF2D20&labelColor=FF2D20&logo=laravel&logoColor=white">
-  <img alt="wakatime" src="https://wakatime.com/badge/user/30563c84-4568-4594-9bbe-b31f0effd26b.svg?&color=0077B5&labelColor=0077B5">
-</p>
 
-Utilizo tecnologia para resolver problemas, conectando pessoas e soluções. Busco me aprofundar em projetos que desafiam o status quo, enquanto aprimoro continuamente minhas habilidades como desenvolvedora.
+### 👩🏽‍💻 Sobre mim
 
-- 🎓 Técnica em **Redes de Computadores** pelo Instituto Federal do Amapá.
-- 🎓 Graduada em **Ciências da Computação** pela Universidade Federal de Goiás.
-- 💡 **Desenvolvedora Fullstack**, alinho o design com tecnologia para solucionar problemas.
-- 👩🏽‍💻 Experiências em **backend** com **PHP (Laravel)** e **Node (Express)**, **frontend** com **React (Next)**, **UI design**.
+Full-Stack Software Developer desde 2020.<br>
+Trabalho na B7 como **Mobile Software Developer**, utilizando Dart (Flutter) e TypeScript (Nest.js).<br>
+Atuo no desenvolvimento frontend com **TypeScript** e backend com **Java** e **PHP**. <br>
+Gosto de atuar em projetos que me permitem evoluir constantemente como profissional.
 
+### 🎓 Educação
 
-## 📫 Contato
-<p>
-  <a href="mailto:helloanaclaraaraujo@gmail.com">
-    <img alt="Email" src="https://img.shields.io/static/v1?label=Email&message=helloanaclaraaraujo@gmail.com%20&color=18181B&labelColor=EA4335&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/anaclaraaraujoa">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=anaclaraaraujoa%20&color=18181B&labelColor=0077B5&logo=linkedin&logoColor=white">
-  </a>
-</p>
+Sou **Técnica em Redes de Computadores** pelo Instituto Federal do Amapá (IFAP) e **Bacharel em Ciências da Computação** pela Universidade Federal de Goiás (UFG).  
+Atualmente, busco aprimorar minhas habilidades por meio de especializações em programação (Rocketseat e Udemy) e UX/UI Design (Design Circuit).
 
-Explore meus projetos e sinta-se à vontade para me enviar suas dúvidas ou sugestões! 😉
+### ⚒️ Experiência
+
+- **2020–2021**: Iniciei no **Desenvolvimento Mobile** com Flutter e Dart, participando de projetos de extensão na UFG, incluindo um app colaborativo para comparação de preços de supermercado e outro, em parceria com o curso de Enfermagem, para auxiliar puérperas no pós-parto.
+- **2022**: Atuei como **Desenvolvedora Frontend** no Portal Catalão, utilizando React.js e JavaScript, além de criar wireframes e layouts com Figma. Paralelamente, estudei Python para **Visão Computacional**, aplicado à detecção de doenças em plantas.
+- **2022–2024**: No final de 2022, tornei-me **Desenvolvedor Backend** na HPE Automotores do Brasil, trabalhando com PHP, Laravel e SQL para banco de dados Oracle, enquanto contribuía como **Desenvolvedora Frontend** e **UI Designer** na comunidade voluntária Juniors Developers Group.
+- **Desde 2023**: Tenho focado em **Mineração de Dados** com Python e Análise de Sentimentos com IA, estudando o uso de reações em issues e pull requests no GitHub durante tarefas de manutenção de software.
+- **Atualmente**: Sou **Desenvolvedora de Software** na B7, onde crio aplicativos mobile com Flutter e desenvolvo aplicações com TypeScript e Nest.js para sistemas em tempo real, atuando também com **UI Designer**.
+
+### 💻 Tecnologias
+
+Minhas principais stacks de trabalho e estudo:
+
+- **Frontend** – TypeScript / React.js / Next.js
+- **Backend** – Java / PHP / TypeScript / Spring Boot / Laravel / Express.js
+- **Mobile** – Flutter
+- **Banco de Dados** – MySQL / PostgreSQL / MongoDB / Oracle
+- **Outros** – Docker / AWS / Figma
