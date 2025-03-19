@@ -2,8 +2,7 @@
 ### 👩🏽‍💻 Sobre mim
 
 Full-Stack Software Developer desde 2020.<br>
-Trabalho na B7 como **Fullstack Software Developer**, utilizando **Dart (Flutter)** e **TypeScript (Nest.js)**.<br>
-Atuo no desenvolvimento frontend com **React.Js** e backend com **Java** e **PHP**.<br>
+Atuo no desenvolvimento frontend com **React** e backend com **Java** e **PHP**.<br>
 Gosto de atuar em projetos que me permitem evoluir constantemente como profissional.
 
 ### 🎓 Educação
@@ -17,7 +16,6 @@ Atualmente, busco aprimorar minhas habilidades por meio de especializações em 
 - **2022**: Atuei como **Desenvolvedora Frontend** no Portal Catalão, utilizando React.js e JavaScript, além de criar wireframes e layouts com Figma. Paralelamente, estudei Python para **Visão Computacional**, aplicado à detecção de doenças em plantas em um projeto de extensão na UFG.
 - **2022–2024**: No final de 2022, tornei-me **Desenvolvedor Backend** na HPE Automotores do Brasil, trabalhando com PHP, Laravel e SQL para banco de dados Oracle, enquanto contribuía como **Desenvolvedora Frontend** e **UI Designer** na comunidade voluntária Juniors Developers Group.
 - **Desde 2023-2025**: Tenho focado em **Mineração de Dados** e **Análise de Sentimentos com IA** utilizando Python, estudando o uso de reações em issues e pull requests no GitHub durante tarefas de manutenção de software com foco em bugs e adição de novas características.
-- **2025-hoje**: Sou **Desenvolvedora de Software** na B7, onde crio aplicativos mobile com Flutter e desenvolvo APIs com TypeScript e Nest.js para sistemas em tempo real, atuando também com **UI Designer**.
 
 ### 💻 Tecnologias
 
