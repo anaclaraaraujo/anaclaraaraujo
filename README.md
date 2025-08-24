@@ -17,11 +17,16 @@
 </p>
 
 #### Experiência
-Desenvolvi aplicativos móveis colaborativos e para a área da saúde usando **Flutter**, criei portais e interfaces responsivos com **React.js** e **Figma** e trabalhei em sistemas de back-end corporativos com **PHP/Laravel** e **Oracle** na HPE Automotores. Além disso, realizei pesquisas em Mineração de Dados e Análise de Sentimentos baseada em IA usando **Python**.
+- **Mobile Developer** (Flutter/Dart) – **UFCat**: apps de comparação de preços e apoio a puérperas.
+- **Frontend Developer** (React.js, JavaScript, Figma) – **Portal Catalão**: criação de sites empresariais responsivos.
+- **Backend Developer** (PHP, Laravel, Oracle SQL) – **HPE Automotores**: desenvolvimento de sistemas corporativos integrados ao ERP.
+- **Researcher** (Python, IA) – **UFCat**: projetos em visão computacional para detecção de doenças em plantas, além de estudos em Mineração de Dados e Análise de Sentimentos no GitHub.
 
-#### Technologies  
-- **Frontend:** React.js, Next.js, TypeScript
+
+#### Tecnologias
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Figma
 - **Backend:** PHP, Laravel, Python, FastAPI, Java, Spring Boot
-- **Mobile:** Flutter
-- **Databases:** MySQL, PostgreSQL
-- **Others:** Docker, AWS, Figma
+- **Mobile:** Flutter/Dart
+- **Databases:** MySQL, PostgreSQL, Oracle
+- **DevOps & Tools:** Docker, AWS, Git
+
